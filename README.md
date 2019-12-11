@@ -22,6 +22,8 @@ On a smaller scale, web scraping automates tedious tasks for personal projects. 
   
   
 ## Resources 
+- **Data Source:** [NASA news](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest) website, [Mars [Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) website, [getbootstrap](https://getbootstrap.com/docs/4.0/components/alerts/) website 
+- **Software:** BeautifulSoup, Splinter, MongoDB, Flask, Python, Jupyter notebook  
 
   
   
