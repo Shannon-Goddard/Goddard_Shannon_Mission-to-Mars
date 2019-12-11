@@ -12,14 +12,32 @@
 [Limitations](#limitations)
 
 ## Project Overview
+In this module, we’ll automate a web browser to visit different websites to extract data about the Mission to Mars. We’ll store it in a NoSQL database, and then render the data in a web application created with Flask. The completed work will be displayed in our portfolio, which we will also create.  
 
+Web scraping is a method used by organizations worldwide to extract online data for analysis. Large companies employ web scraping to assess their reputations or track their competitors’ online presence.  
 
+On a smaller scale, web scraping automates tedious tasks for personal projects. For example, if you’re collecting current news on a specific subject, web scraping can make it a simple process. Instead of visiting each website and copying an article, a web scraping script will perform those actions and save the scraped data for later analysis.
+
+  
+  
+  
 ## Resources 
 
-
+  
+  
+  
 ## Objectives
+By the end of this module, we will be able to: 
+- Gain familiarity with and use HTML elements, as well as class and id attributes, to identify content for web scraping.
+- Use BeautifulSoup and Splinter to automate a web browser and perform a web scrape.
+- Create a MongoDB database to store data from the web scrape.
+- Create a web application with Flask to display the data from the web scrape.
+- Create an HTML/CSS portfolio to showcase projects.
+- Use Bootstrap components to polish and customize the portfolio.
 
-
+  
+  
+  
 ## Summary
 
 
@@ -34,7 +52,7 @@ Background
 - Use Bootstrap to style the web app.
 
 ## Instructions
-Visit the [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)web site to view the hemisphere images and use DevTools to find the proper elements to scrape.  
+Visit the [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) web site to view the hemisphere images and use DevTools to find the proper elements to scrape.  
 
 To complete this task, follow these steps:
 
