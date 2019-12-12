@@ -1,5 +1,5 @@
 ![header](/pics/header.png)
-# Goddard_Shannon_Mission-to-Mars &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; README.md
+# Goddard_Shannon_Mission-to-Mars &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; README.md
 
 #### Table of Contents
 
