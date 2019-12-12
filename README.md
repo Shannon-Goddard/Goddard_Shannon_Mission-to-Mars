@@ -41,11 +41,11 @@ By the end of this module, we will be able to:
   
   
 ## Summary
+**In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars [index.html](/templates/index.html). We stored it in a NoSQL database [scraping.py](/scraping.py), and then render the data in a web application created with Flask [app.py](/app.py)**
+
 <p align="center">
   <img width="700" height="300" src="/pics/toolscustom.png">
 </p>  
-
-**In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars [index.html](/templates/index.html). We stored it in a NoSQL database [scraping.py](/scraping.py), and then render the data in a web application created with Flask [app.py](/app.py)**  
 
 <img align="left" width="400" height="200" src="/pics/bash.png">Web scraping is a method used by organizations worldwide to extract online data for analysis. Large companies employ web scraping to assess their reputations or track their competitors’ online presence. 
 <br/>  
