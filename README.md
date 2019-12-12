@@ -46,16 +46,18 @@ By the end of this module, we will be able to:
 <p align="center">
   <img width="700" height="300" src="/pics/toolscustom.png">
 </p>  
-
+<br/>
+<br/>
 <img align="left" width="400" height="200" src="/pics/success.png">Web scraping is a method used by organizations worldwide to extract online data for analysis. Large companies employ web scraping to assess their reputations or track their competitors’ online presence. 
 <br/>  
 <br/>  
 <br/>  
 <br/>
 <img align="right" width="400" height="200" src="/pics/marspage.png">On a smaller scale, web scraping automates tedious tasks for personal projects. For example, if you’re collecting current news on a specific subject, web scraping can make it a simple process. Instead of visiting each website and copying an article, a web scraping script will perform those actions and save the scraped data for later analysis.  
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 ## Challenge Overview
 In this challenge, we will scrape additional content for the web app. This time, the focus is to add more images to the app.
 Background  
