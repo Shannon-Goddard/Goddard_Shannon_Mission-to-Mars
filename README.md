@@ -57,7 +57,8 @@ By the end of this module, we will be able to:
 <br/>
 <br/>
 <br/>
-<br/>
+<br/>  
+
 ## Challenge Overview
 In this challenge, we will scrape additional content for the web app. This time, the focus is to add more images to the app.
 Background  
