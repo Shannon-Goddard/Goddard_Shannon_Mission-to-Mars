@@ -49,7 +49,7 @@ By the end of this module, we will be able to:
   <img width="700" height="300" src="/pics/toolscustom.png">
 </p>  
 
-**In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars [index.html](/templates/index.html). We stored it in a NoSQL database [scraping.py](/scraping.py), and then render the data in a web application created with Flask [app.py](/app.py)
+**In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars [index.html](/templates/index.html). We stored it in a NoSQL database [scraping.py](/scraping.py), and then render the data in a web application created with Flask [app.py](/app.py)**
 
 ## Challenge Overview
 In this challenge, we will scrape additional content for the web app. This time, the focus is to add more images to the app.
