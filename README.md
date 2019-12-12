@@ -53,7 +53,10 @@ By the end of this module, we will be able to:
 <br/>  
 <br/>  
 <br/>
-<img align="right" width="400" height="200" src="/pics/marspage.png">On a smaller scale, web scraping automates tedious tasks for personal projects. For example, if you’re collecting current news on a specific subject, web scraping can make it a simple process. Instead of visiting each website and copying an article, a web scraping script will perform those actions and save the scraped data for later analysis.  
+<br/>
+<br/>  
+
+<img align="right" width="500" height="250" src="/pics/marspage.png">On a smaller scale, web scraping automates tedious tasks for personal projects. For example, if you’re collecting current news on a specific subject, web scraping can make it a simple process. Instead of visiting each website and copying an article, a web scraping script will perform those actions and save the scraped data for later analysis.  
 <br/>
 <br/>
 <br/>
