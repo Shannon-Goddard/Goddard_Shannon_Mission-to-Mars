@@ -48,8 +48,14 @@ By the end of this module, we will be able to:
 **In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars [index.html](/templates/index.html). We stored it in a NoSQL database [scraping.py](/scraping.py), and then render the data in a web application created with Flask [app.py](/app.py)**  
 
 Web scraping is a method used by organizations worldwide to extract online data for analysis. Large companies employ web scraping to assess their reputations or track their competitors’ online presence.  
+
+<img align="left" width="400" height="200" src="/pics/bash.png"><img align="right" width="400" height="200" src="/pics/success.png">
   
-On a smaller scale, web scraping automates tedious tasks for personal projects. For example, if you’re collecting current news on a specific subject, web scraping can make it a simple process. Instead of visiting each website and copying an article, a web scraping script will perform those actions and save the scraped data for later analysis.
+On a smaller scale, web scraping automates tedious tasks for personal projects. For example, if you’re collecting current news on a specific subject, web scraping can make it a simple process. Instead of visiting each website and copying an article, a web scraping script will perform those actions and save the scraped data for later analysis.  
+
+<p align="center">
+  <img width="700" height="300" src="/pics/marspage.png">
+</p>
 
 ## Challenge Overview
 In this challenge, we will scrape additional content for the web app. This time, the focus is to add more images to the app.
