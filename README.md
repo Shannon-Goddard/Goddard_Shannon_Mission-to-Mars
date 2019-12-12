@@ -41,7 +41,7 @@ By the end of this module, we will be able to:
   
   
 ## Summary
-**In this module, we automated a web browser to visit [NASA news](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest) website, [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) website to extract data about the Mission to Mars [index.html](/templates/index.html). We stored it in a NoSQL database in [scraping.py](/scraping.py), and then render the data in a web application created with Flask in [app.py](/app.py)**
+**In this module, we automated a web browser to visit the [NASA news](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest) website and the [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) website to extract data about the Mission to Mars in [index.html](/templates/index.html). We stored it in a NoSQL database in [scraping.py](/scraping.py), and then render the data in a web application created with Flask in [app.py](/app.py)**
 
 <p align="center">
   <img width="700" height="300" src="/pics/toolscustom.png">
