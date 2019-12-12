@@ -14,8 +14,8 @@
 ## Project Overview
 <img src="/pics/tools.png"
      alt="Home Screen"
-     style="float: center; margin-center: 10px;"
-     width="500"/>
+     style="float: left; margin-right: 10px;"
+     width="1000"/>
 <br/>
 In this module, we’ll automate a web browser to visit different websites to extract data about the Mission to Mars. We’ll store it in a NoSQL database, and then render the data in a web application created with Flask. The completed work will be displayed in our portfolio, which we will also create.  
 
