@@ -12,9 +12,7 @@
 [Limitations](#limitations)
 
 ## Project Overview
-<img src="/pics/tools.png"
-     style="text-align:center;"
-     width="700"/>
+<img src="/pics/tools.png" class="centerImage" alt="CH Logo" height="120" width="350">
 <br/>
 In this module, we’ll automate a web browser to visit different websites to extract data about the Mission to Mars. We’ll store it in a NoSQL database, and then render the data in a web application created with Flask. The completed work will be displayed in our portfolio, which we will also create.  
 
