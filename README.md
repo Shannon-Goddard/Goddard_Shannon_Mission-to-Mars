@@ -13,7 +13,6 @@
 
 ## Project Overview
 <img src="/pics/tools.png"
-     alt="Home Screen"
      style="text-align:center;"
      width="700"/>
 <br/>
