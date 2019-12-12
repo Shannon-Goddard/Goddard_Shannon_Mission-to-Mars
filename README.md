@@ -16,7 +16,7 @@
   <img width="700" height="300" src="/pics/tools.png">
 </p>  
 
-**In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars. We stored it in a NoSQL database, and then render the data in a web application created with Flask. The completed work is displayed in our portfolio, which we, also, create.**  
+**In this module, we automated a web browser to visit different websites to extract data about the Mission to Mars. We stored it in a NoSQL database, and then render the data in a web application created with Flask. The completed work is displayed in our portfolio, which we also create.**  
   
 Web scraping is a method used by organizations worldwide to extract online data for analysis. Large companies employ web scraping to assess their reputations or track their competitors’ online presence.  
   
