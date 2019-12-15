@@ -93,6 +93,11 @@ Bootstrap components are designed to make polishing your webpage easier. Take ad
 As you update your app, keep the following questions in mind.
 - Is this page clean?
 - Does the page stand out from other pages?
+
+A link to the GitHub repo for my [portfolio](https://github.com/Shannon-Goddard/Portfolio.git)  
+<p align="center">
+  <img width="700" height="300" src="/pics/portfolio.png">
+</p>
 ## Submission
 Make sure your repo is up to date and contains the following:
 - A README.md file containing a screenshot of your completed portfolio
