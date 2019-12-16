@@ -73,12 +73,12 @@ Background
 - Use Bootstrap to style the web app.
 
 ## Challenge Summary
-<img align="left" width="400" height="200" src="/pics/challenge_pic.png">
-<img align="right" width="400" height="200" src="/pics/challenge_pic1.png">
+<img align="left" width="450" height="225" src="/pics/challenge_pic.png">
+<img align="right" width="450" height="225" src="/pics/challenge_pic1.png">
 <br/>
 <br/>
 <br/>
-<br/>
+<br/>  
 
 ## Bonus
 Bootstrap components are designed to make polishing your webpage easier. Take advantage of the different options Bootstrap provides to create a tidy web app. For an extra challenge, we made the following updates to our web app. The goal is to present the gathered data in a format that is easy to read but also pleasing to the eye.  
