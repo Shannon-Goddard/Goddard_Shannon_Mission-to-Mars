@@ -73,7 +73,7 @@ Background
 - Use Bootstrap to style the web app.
 
 ## Challenge Summary
-<img align="right" width="500" height="250" src="/pics/challenge_pic.png">
+<img align="left" width="500" height="250" src="/pics/challenge_pic.png">
 <img align="right" width="500" height="250" src="/pics/challenge_pic1.png">
 <br/>
 <br/>
